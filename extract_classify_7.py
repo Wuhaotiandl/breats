@@ -7,6 +7,7 @@ from shutil import copyfile
 
 def test(data_path):
     """
+    ces
         从下到上排序的 CT_01 对应最下面这一张
     """
     slices = []
